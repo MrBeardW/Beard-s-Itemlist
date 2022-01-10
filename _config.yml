@@ -3,7 +3,7 @@ title: "Beard's Custom List"
 favicon: assets/img/favicon.png
 description: Beards Custom List for Rimworld
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/Beard-s-Itemlist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'MrBeardedWonder'
 github_username: 'mrBeardW'
